@@ -19,5 +19,5 @@ LED
 Breadboard and jumper wires
 
 Reads the value from the PIR sensor.
-If the PIR sensor detects motion (pirValue == HIGH), it turns on the LED and prints a message to the serial monitor.
+If the PIR sensor detects motion, it turns on the LED 
 If no motion is detected, it turns off the LED.
